@@ -1,4 +1,4 @@
-<img align="right" width="150" alt="20200907_104224" src="https://user-images.githubusercontent.com/29639563/180003274-6b40f5e8-ddc8-40ec-8bc5-74320dd0bfcc.png">
+<img align="left" width="150" alt="20200907_104224" src="https://user-images.githubusercontent.com/29639563/180003274-6b40f5e8-ddc8-40ec-8bc5-74320dd0bfcc.png">
 
 # NeoMedSys -- New Medical Systems
 ## *Making complex medical workflows simple*
