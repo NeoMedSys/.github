@@ -3,7 +3,7 @@
 # NeoMedSys -- New Medical Systems
 ## *Making complex medical workflows simple*
 
-<br clear="right"/>
+<br clear="left"/>
 
 ### 1. Introduction
 #### 1.1 NeoMedSys 
@@ -12,12 +12,22 @@ NeoMedSys is a young tech company focused on contributing to technological chang
 
 ###### 🚀 The goal is to improve patient treatment and care by improving the medical workflow
 
-###### 🌈 The vision is to rally the clinics and research departments under the one flag by becoming a trustworthy, agile and modern centralized system provider
+###### 🌈 The vision is to rally the workflow of clinics and research departments under one flag by becoming a trustworthy, agile and modern centralized system provider
 
 #### 1.2 The health sector
-There is an imperative need in the health sector for better technological systems that can enable better workflows for doctors, nurses, managers and researchers throughout the whole hospital organization. The effect of this is improved patient treatment and care. NeoMedSys is devoted to be part of the development that will enable the change for improvement.
+The health sector is one of the industries in developing countries that are the slowest in adapting to technological change. Many of the current hospital systems are majority based or soelely based on technology that dates back to the 1970s and 1980s. These systems are often disliked by the users due to their many feature limitations and technological awakardness. There is an imperative need in the health sector for better technological systems that can enable better workflows for doctors, nurses, managers and researchers throughout the whole hospital organization. 
 
 <!--
+2. problem
+2.2 health sector
+- flexibility
+- decentralized
+- no modern approach
+- old security systems that incetivises completely closing off the systems and stopping further development due to securtiy risks
+- no way to work agile
+
+The effect of improving this is improved patient treatment/care, better collaboration intra/inter departments and . 
+
 **Here are some ideas to get you started:**
 
 🙋‍♀️ A short introduction - what is your organization all about?
