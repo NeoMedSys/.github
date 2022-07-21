@@ -11,11 +11,13 @@ NeoMedSys is a young tech company focused on contributing to technological chang
 
 The specific focus is on (i) state of the art medical database development, (ii) machine learning operations and (iii) developing a medical workflow-platform that incorporates all core operational and research workflow. The reason why NeoMedSys has currently three major focus areas, which can in turn be parted into smaller focus areas, is to be able to stay flexible and adaptive to the developments that happen in technology.
 
-<img align="left" width="30" alt="20200907_104224" src="https://user-images.githubusercontent.com/29639563/180003274-6b40f5e8-ddc8-40ec-8bc5-74320dd0bfcc.png">
+<img align="left" width="120" alt="20200907_104224" src="https://user-images.githubusercontent.com/29639563/180244541-5549f4b3-0d91-4b4f-8316-2d64e909dda6.png">
 
 The first focus area is to deploy a flexible/agile, user-friendly, fast and top-secure database management system which we call MedQuery. 
 
 <br clear="left"/>
+
+1.2 Ambitions
 
 ###### 🚀 The goal is to improve patient treatment and care by improving the medical workflow
 
