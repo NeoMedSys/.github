@@ -7,13 +7,15 @@
 
 ### 1. The What
 #### 1.1 NeoMedSys 
-NeoMedSys is a young tech company focused on contributing to technological change in the health sector. The specific focus is on (i) state of the art database development, (ii) machine learning operations and (iii) developing a medical workflow-platform that incorporates all core operational and research workflow. The reason why NeoMedSys has currently three major focus areas, which can in turn be parted into smaller focus areas, is to be able to stay flexible and adaptive to the developments that happen in technology.
+NeoMedSys is a young tech company focused on contributing to technological change in the health sector. The company was established on work and ideas that were developed at the research unit [CRAI](https://crai.no/) on the university hospital of Oslo.
+
+The specific focus is on (i) state of the art database development, (ii) machine learning operations and (iii) developing a medical workflow-platform that incorporates all core operational and research workflow. The reason why NeoMedSys has currently three major focus areas, which can in turn be parted into smaller focus areas, is to be able to stay flexible and adaptive to the developments that happen in technology.
 
 ###### 🚀 The goal is to improve patient treatment and care by improving the medical workflow
 
 ###### 🌈 The vision is to rally the workflow of clinics and research departments under one flag by becoming a trustworthy, agile and modern centralized system provider
-
-#### 1.2 The health sector
+### 2 The Why
+#### 2.1 Changes to the health sector
 The health sector is one of the industries in developing countries that are the slowest in adapting to technological change. Many of the current hospital systems are majority based or soelely based on technology that dates back to the 1970s and 1980s. These systems are often disliked by the users due to their many feature limitations and technological awakardness. There is an imperative need in the health sector for better technological systems that can enable better workflows for doctors, nurses, managers and researchers throughout the whole hospital organization. 
 
 <!--
