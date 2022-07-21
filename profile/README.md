@@ -9,7 +9,13 @@
 #### 1.1 NeoMedSys 
 NeoMedSys is a young tech company focused on contributing to technological change in the health sector. The company was established on work and ideas that were developed at the research unit [CRAI](https://crai.no/) on the university hospital of Oslo.
 
-The specific focus is on (i) state of the art database development, (ii) machine learning operations and (iii) developing a medical workflow-platform that incorporates all core operational and research workflow. The reason why NeoMedSys has currently three major focus areas, which can in turn be parted into smaller focus areas, is to be able to stay flexible and adaptive to the developments that happen in technology.
+The specific focus is on (i) state of the art medical database development, (ii) machine learning operations and (iii) developing a medical workflow-platform that incorporates all core operational and research workflow. The reason why NeoMedSys has currently three major focus areas, which can in turn be parted into smaller focus areas, is to be able to stay flexible and adaptive to the developments that happen in technology.
+
+<img align="left" width="30" alt="20200907_104224" src="https://user-images.githubusercontent.com/29639563/180003274-6b40f5e8-ddc8-40ec-8bc5-74320dd0bfcc.png">
+
+The first focus area is to deploy a flexible/agile, user-friendly, fast and top-secure database management system which we call MedQuery. 
+
+<br clear="left"/>
 
 ###### 🚀 The goal is to improve patient treatment and care by improving the medical workflow
 
