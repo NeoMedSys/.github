@@ -5,26 +5,59 @@
 
 <br clear="left"/>
 
+
+<br>
+
 ### 1. The What
 #### 1.1 NeoMedSys 
 NeoMedSys is a young tech company focused on contributing to technological change in the health sector. The company was established on work and ideas that were developed at the research unit [CRAI](https://crai.no/) on the university hospital of Oslo.
 
 The specific focus is on (i) state of the art medical database development, (ii) machine learning operations and (iii) developing a medical workflow-platform that incorporates all core operational and research workflow. The reason why NeoMedSys has currently three major focus areas, which can in turn be parted into smaller focus areas, is to be able to stay flexible and adaptive to the developments that happen in technology.
 
-<img align="left" width="120" alt="20200907_104224" src="https://user-images.githubusercontent.com/29639563/180244541-5549f4b3-0d91-4b4f-8316-2d64e909dda6.png">
+---
 
-The first focus area is to deploy a flexible/agile, user-friendly, fast and top-secure database management system which we call MedQuery. 
+<br>
+
+<img align="left" width="120" height="65" alt="20200907_104224" src="https://user-images.githubusercontent.com/29639563/180244541-5549f4b3-0d91-4b4f-8316-2d64e909dda6.png">
+
+The first focus area is to deploy a flexible/agile, user-friendly, fast and top-secure database management system which we call MedQuery. The database architecture is designed to be flexible and adaptive to the hospital requirements and technological development. High priorites are security, accessiblity, scalability, felxibility and data quality.
 
 <br clear="left"/>
 
+<img align="left" width="120" alt="20200907_104224" src="https://user-images.githubusercontent.com/29639563/180439641-0c36576e-9b68-4e64-a63d-f713c0fe3239.png">
+
+The second focus area is a production machine learning system we call MLFactory. This is where the AI models will live and serve the clinics in a safe and monitored environment. Compliance, failsafety, agility, monitoring and strong provenance are the high priorities for the MLOps at MLFactory.
+
+<br clear="left"/>
+
+<br>
+
+<img align="left" width="120" alt="20200907_104224" src="https://user-images.githubusercontent.com/29639563/180444097-00b612fe-6192-4ea3-8741-070ff2714c25.png">
+
+The third focus area is a workflow-platform for hospital researchers and practitioners that we have called Falco. The platform will serve as the key component for improving collaboration and workflow intra and inter departments, accross hospitals and hospital regions.
+
+<br clear="left"/>
+
+
+<br>
+
+---
+
 1.2 Ambitions
 
-###### 🚀 The goal is to improve patient treatment and care by improving the medical workflow
+> 🚀 The goal is to improve patient treatment and care by improving the medical workflow
 
-###### 🌈 The vision is to rally the workflow of clinics and research departments under one flag by becoming a trustworthy, agile and modern centralized system provider
-### 2 The Why
+> :sparkles: The vision is to rally the workflow of clinics and research departments under one flag by becoming a trustworthy, agile and modern centralized system provider
+
+<br>
+
+### 2. The Why
 #### 2.1 Changes to the health sector
-The health sector is one of the industries in developing countries that are the slowest in adapting to technological change. Many of the current hospital systems are majority based or soelely based on technology that dates back to the 1970s and 1980s. These systems are often disliked by the users due to their many feature limitations and technological awakardness. There is an imperative need in the health sector for better technological systems that can enable better workflows for doctors, nurses, managers and researchers throughout the whole hospital organization. 
+The health sector is one of the industries in developing countries that are the slowest in adapting to technological change. Many of the current hospital systems are primarily based or partially based on technology that dates back to the 1970s and 1980s. These systems are often disliked by the users due to their many feature limitations, lack of failsafety and technological awakardness. There is an imperative need in the health sector for better technological systems that can enable better workflows for doctors, nurses, managers and researchers throughout the whole hospital organization.
+
+<br>
+
+### 3. The How 
 
 <!--
 2. problem
