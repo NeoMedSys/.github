@@ -20,13 +20,13 @@ The specific focus is on (i) state of the art medical database development, (ii)
 
 <img align="left" width="120" height="65" alt="20200907_104224" src="https://user-images.githubusercontent.com/29639563/180244541-5549f4b3-0d91-4b4f-8316-2d64e909dda6.png">
 
-The first focus area is to deploy a flexible/agile, user-friendly, fast and top-secure database management system which we call MedQuery. The database architecture is designed to be flexible and adaptive to the hospital requirements and technological development. High priorites are security, accessiblity, scalability, felxibility and data quality.
+The first focus area is to deploy a flexible/agile, user-friendly, fast and top-secure database management system which we call **MedQuery**. The database architecture is designed to be flexible and adaptive to the hospital requirements and technological development. High priorites are security, accessiblity, scalability, felxibility and data quality.
 
 <br clear="left"/>
 
-<img align="left" width="120" alt="20200907_104224" src="https://user-images.githubusercontent.com/29639563/180439641-0c36576e-9b68-4e64-a63d-f713c0fe3239.png">
+<img align="left" width="120" alt="20200907_104224" src="https://user-images.githubusercontent.com/29639563/180615895-f353f60d-abae-49f5-8204-1262efc259df.png">
 
-The second focus area is a production machine learning system we call MLFactory. This is where the AI models will live and serve the clinics in a safe and monitored environment. Compliance, failsafety, agility, monitoring and strong provenance are the high priorities for the MLOps at MLFactory.
+The second focus area is a production machine learning system we call **MLFactory**. This is where the AI models will live and serve the clinics in a safe and monitored environment. Compliance, failsafety, agility, monitoring and strong provenance are the high priorities for the MLOps at MLFactory.
 
 <br clear="left"/>
 
@@ -34,7 +34,7 @@ The second focus area is a production machine learning system we call MLFactory.
 
 <img align="left" width="120" alt="20200907_104224" src="https://user-images.githubusercontent.com/29639563/180444097-00b612fe-6192-4ea3-8741-070ff2714c25.png">
 
-The third focus area is a workflow-platform for hospital researchers and practitioners that we have called Falco. The platform will serve as the key component for improving collaboration and workflow intra and inter departments, accross hospitals and hospital regions.
+The third focus area is a workflow-platform for hospital researchers and practitioners that we have called **Falco**. The platform will serve as the key component for improving collaboration and workflow intra and inter departments, accross hospitals and hospital regions.
 
 <br clear="left"/>
 
