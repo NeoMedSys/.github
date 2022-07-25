@@ -1,3 +1,4 @@
+
 <img align="left" width="150" alt="20200907_104224" src="https://user-images.githubusercontent.com/29639563/180003274-6b40f5e8-ddc8-40ec-8bc5-74320dd0bfcc.png">
 
 # NeoMedSys -- New Medical Systems
@@ -18,7 +19,8 @@ The specific focus is on (i) state of the art medical database development, (ii)
 
 <br>
 
-<img align="left" width="120" height="65" alt="20200907_104224" src="https://user-images.githubusercontent.com/29639563/180244541-5549f4b3-0d91-4b4f-8316-2d64e909dda6.png">
+<img align="left" width="120" alt="20200907_104224" src="https://user-images.githubusercontent.com/29639563/180863997-0e618b84-5039-438b-a028-1c42496c971d.png">
+
 
 The first focus area is to deploy a flexible/agile, user-friendly, fast and top-secure database management system which we call **MedQuery**. The database architecture is designed to be flexible and adaptive to the hospital requirements and technological development. High priorites are security, accessiblity, scalability, felxibility and data quality.
 
