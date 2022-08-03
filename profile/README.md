@@ -7,16 +7,6 @@
 
 <br clear="left"/>
 
-![relese](https://img.shields.io/badge/release-v0.1.0--alpha-blue)
-![image](https://user-images.githubusercontent.com/29639563/182672649-9a412cbb-ddd7-43b6-b938-1a6dd720b5cc.png)
-![image](https://user-images.githubusercontent.com/29639563/182673031-c6054528-612b-441b-be52-bbb85096f66e.png)
-![image](https://user-images.githubusercontent.com/29639563/182672919-fa9c61e5-c9ec-412b-bd59-65dbd67673c9.png)
-![golang](https://user-images.githubusercontent.com/29639563/182672526-3b60618c-ab81-4887-84e7-0a7329058782.png)
-
-
-
-
-
 
 ### 1. The What ###
 #### 1.1 NeoMedSys
@@ -119,3 +109,19 @@ The aim is to make AI a main component of the workflow-platform.
 🍿 Fun facts - what does your team eat for breakfast?
 🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
 -->
+
+<br>
+
+<br>
+
+<br>
+
+<br>
+
+<br>
+
+![relese](https://img.shields.io/badge/release-v0.1.0--alpha-blue)
+![image](https://user-images.githubusercontent.com/29639563/182672649-9a412cbb-ddd7-43b6-b938-1a6dd720b5cc.png)
+![image](https://user-images.githubusercontent.com/29639563/182673031-c6054528-612b-441b-be52-bbb85096f66e.png)
+![image](https://user-images.githubusercontent.com/29639563/182672919-fa9c61e5-c9ec-412b-bd59-65dbd67673c9.png)
+![golang](https://user-images.githubusercontent.com/29639563/182672526-3b60618c-ab81-4887-84e7-0a7329058782.png)
