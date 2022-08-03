@@ -7,22 +7,25 @@
 
 <br clear="left"/>
 
+<br>
+
+<img src="https://img.shields.io/badge/release-v0.1.0--alpha-blue" height="15" /> <img src="https://user-images.githubusercontent.com/29639563/182672649-9a412cbb-ddd7-43b6-b938-1a6dd720b5cc.png" height="15" />
+<img src="https://user-images.githubusercontent.com/29639563/182673031-c6054528-612b-441b-be52-bbb85096f66e.png" height="15" />
+<img src="https://user-images.githubusercontent.com/29639563/182672919-fa9c61e5-c9ec-412b-bd59-65dbd67673c9.png" height="15" />
+<img src="https://user-images.githubusercontent.com/29639563/182672526-3b60618c-ab81-4887-84e7-0a7329058782.png" height="15" />
+<br>
 
 ### 1. The What ###
 #### 1.1 NeoMedSys
-NeoMedSys is a medical software technology that enables advance analytics and AI assistance in the clinic, simplifies complex multidisciplinary workflow and centralizes core medical operations. Research departments can share the same workflow-platform as clinics and hospital managers which can improve collaboration. Any kind of medical data can be processed and delivered as a product to the clinics through NeoMedSys, that way the organization can centralize operations around the medical data and not vice-versa. AI models are easy to integrate into the NeoMedSys cloud native architecture, which makes the hospital responsive to the needs that AI can offer. NeoMedSys simplifies accessibility and data sharing intra and inter departments by using state of the art cyber security and admin controlled granulated access control. 
+NeoMedSys is a medical software technology that enables advance analytics and AI assistance in the clinic, simplifies complex multidisciplinary workflow and centralizes core medical operations. Researchers can share the same workflow-platform as clinicians and hospital managers which can improve collaboration. Any kind of medical data can be processed and delivered as a product to the clinics through NeoMedSys, that way the organization can centralize operations around the medical data and not vice-versa. AI models are easy to integrate into the cloud native architecture, which makes the hospital responsive to the needs that AI can offer. NeoMedSys simplifies accessibility and data sharing intra and inter departments by using state of the art information security and admin controlled granular access control. 
 
-<br>
-
-###### One system for improved research and core medical operations
-
+ > One system for improved  and enhanced research and core medical operations in multiple departments of the organization
 
 <!--
 by transformingh centralizing, maintaining and making readily available all kinds of medical data. NeoMedSys was first developed at the research unit [CRAI](crai.no) as a response to the lack of modern medical technology systems.
 
 The main components of NeoMedSys are currently (i) state of the art medical database development, (ii) machine learning operations and (iii) developing a medical workflow-platform that incorporates all core operational and research workflow. The reason why NeoMedSys has currently three major focus areas, which can in turn be parted into smaller focus areas, is to be able to stay flexible and adaptive to the developments that happen in technology.
 -->
-<br>
 
 #### 1.2 A brief deeper look at NeoMedSys
 NeoMedSys is a distributed system and consists currently of three main components which in turn consists of smaller components. This architecture allows for agile and felixible development. 
@@ -109,19 +112,3 @@ The aim is to make AI a main component of the workflow-platform.
 🍿 Fun facts - what does your team eat for breakfast?
 🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
 -->
-
-<br>
-
-<br>
-
-<br>
-
-<br>
-
-<br>
-
-![relese](https://img.shields.io/badge/release-v0.1.0--alpha-blue)
-![image](https://user-images.githubusercontent.com/29639563/182672649-9a412cbb-ddd7-43b6-b938-1a6dd720b5cc.png)
-![image](https://user-images.githubusercontent.com/29639563/182673031-c6054528-612b-441b-be52-bbb85096f66e.png)
-![image](https://user-images.githubusercontent.com/29639563/182672919-fa9c61e5-c9ec-412b-bd59-65dbd67673c9.png)
-![golang](https://user-images.githubusercontent.com/29639563/182672526-3b60618c-ab81-4887-84e7-0a7329058782.png)
