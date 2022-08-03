@@ -9,7 +9,7 @@
 
 ### 1. The What ###
 #### 1.1 NeoMedSys
-NeoMedSys is a medical software technology that enables advance analytics and AI assistance in the clinic, simplifies complex multidisciplinary workflow and centralizes core medical operations. Research departments can share the same workflow-platform as clinics and hospital managers which can improve collaboration. Any kind of medical data can be processed and delivered as a product to the clinics throught NeoMedSys, that way the organization can centralize operations around the medical data and not vice-versa. AI models are easy to integrate into the NeoMedSys cloud native architecture, which makes the hospital responsive to the needs that AI can offer. NeoMedSys simplifies accessibility and data sharing intra and inter departments by using state of the art cyber security and admin controlled granulated access control. 
+NeoMedSys is a medical software technology that enables advance analytics and AI assistance in the clinic, simplifies complex multidisciplinary workflow and centralizes core medical operations. Research departments can share the same workflow-platform as clinics and hospital managers which can improve collaboration. Any kind of medical data can be processed and delivered as a product to the clinics through NeoMedSys, that way the organization can centralize operations around the medical data and not vice-versa. AI models are easy to integrate into the NeoMedSys cloud native architecture, which makes the hospital responsive to the needs that AI can offer. NeoMedSys simplifies accessibility and data sharing intra and inter departments by using state of the art cyber security and admin controlled granulated access control. 
 
 <br>
 
