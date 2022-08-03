@@ -69,7 +69,12 @@ The third component is the a workflow-platform for hospital researchers and prac
 <br>
 
 ### 2. The Why ###
-#### 2.1 Medical technology needs and AI in the clinic
+#### 2.1 Who will benefit from taking use of NeoMedSys
+
+#### 2.2 Downsides of the current medical systems
+
+#### 2.3 New medical technology needs and AI in the clinic
+
 <!--
 The health sector is one of the industries in developing countries that are the slowest in adapting to technological change. Many of the current hospital systems are primarily based or partially based on technology that dates back to the 1970s and 1980s. These systems are often disliked by the users due to their many feature limitations, lack of failsafety and technological awakardness. There is an imperative need in the health sector for better technological systems that can enable better workflows for doctors, nurses, managers and researchers throughout the whole hospital organization.
 -->
@@ -77,7 +82,12 @@ The health sector is one of the industries in developing countries that are the 
 
 ### 3. The How ###
 
+#### 3.1 How will NeoMedSys bring about change
+
 <!--
+
+3.1 by transformingh centralizing, maintaining and making readily available all kinds of medical data. NeoMedSys was first developed at the research unit [CRAI](crai.no) as a response to the lack of modern medical technology systems.
+
 2. problem
 2.2 health sector
 - flexibility
