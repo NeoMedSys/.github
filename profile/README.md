@@ -1,27 +1,34 @@
 
 <img align="left" width="165" alt="20200907_104224" src="https://user-images.githubusercontent.com/29639563/180003274-6b40f5e8-ddc8-40ec-8bc5-74320dd0bfcc.png">
 
-# NeoMedSys -- New Medical Systems
-## Making complex medical workflows simple
+# NeoMedSys -- New Medical Systems #
+## Making complex medical workflows simple ##
 
 <br clear="left"/>
 
 
-### 1. The What
-#### 1.1 NeoMedSys 
-NeoMedSys is a medical software technology that enables advance analytics and AI in core medical operations, improves collaboration between research departments and clinics and simplifies complex multidisciplinary workflow. The workflow-platform Falco, which is a main componoent of NeoMedSys, will offer AI assistance in medical imaging diagnostics and fine detailed information about the data. 
+### 1. The What ###
+#### 1.1 NeoMedSys
+NeoMedSys is a medical software technology that enables advance analytics and AI assistance in the clinic, simplifies complex multidisciplinary workflow and centralizes core medical operations. Research departments can share the same workflow-platform as clinics and hospital managers which can improve collaboration. Any kind of medical data can be processed and delivered as a product to the clinics throught NeoMedSys, that way the organization can centralize operations around the medical data and not vice-versa. AI models are easy to integrate into the NeoMedSys cloud native architecture, which makes the hospital responsive to the needs that AI can offer. NeoMedSys simplifies accessibility and data sharing intra and inter departments by using state of the art cyber security and admin controlled granulated access control. 
 
-by transformingh centralizing, maintaining and making readily available all kinds of medical data. NeoMedSys was first developed at the research unit [CRAI](crai.no) as a response to the lack of modern medical technology systems.
+<br>
+
+###### One system for improved research and core medical operations
+
 
 <!--
+by transformingh centralizing, maintaining and making readily available all kinds of medical data. NeoMedSys was first developed at the research unit [CRAI](crai.no) as a response to the lack of modern medical technology systems.
+
 The main components of NeoMedSys are currently (i) state of the art medical database development, (ii) machine learning operations and (iii) developing a medical workflow-platform that incorporates all core operational and research workflow. The reason why NeoMedSys has currently three major focus areas, which can in turn be parted into smaller focus areas, is to be able to stay flexible and adaptive to the developments that happen in technology.
 -->
 <br>
 
-#### 1.2 Main components of NeoMedSys
-NeoMedSys is a distributed system and consists currently of three main components which in turn consists of smaller components. This architecture allows for agile and felixible development.
+#### 1.2 A brief deeper look at NeoMedSys
+NeoMedSys is a distributed system and consists currently of three main components which in turn consists of smaller components. This architecture allows for agile and felixible development. 
+- The first component is an agile, quality assured, scalable, fast and top-secure database management system which we call **MedQuery** and can be regarded as the backbone in NeoMedSys.
+- The second component is a production machine learning system we call **MLFactory**, which is where the AI models will live and serve the clinics. Compliance, fail-safety, agility, monitoring and traceablity are the high priorities for the MLOps in MLFactory.
 
-
+<!--
 ---
 
 <img align="left" width="90" alt="20200907_104224" src="https://user-images.githubusercontent.com/29639563/180863997-0e618b84-5039-438b-a028-1c42496c971d.png">
@@ -50,10 +57,10 @@ The third component is the a workflow-platform for hospital researchers and prac
 <br>
 
 ---
-
+-->
 <br>
 
-1.2 Ambitions
+1.3 Ambitions
 
 > 🚀 The goal is to improve patient treatment and care by improving the medical workflow
 
@@ -61,14 +68,14 @@ The third component is the a workflow-platform for hospital researchers and prac
 
 <br>
 
-### 2. The Why
+### 2. The Why ###
 #### 2.1 Medical technology needs and AI in the clinic
 <!--
 The health sector is one of the industries in developing countries that are the slowest in adapting to technological change. Many of the current hospital systems are primarily based or partially based on technology that dates back to the 1970s and 1980s. These systems are often disliked by the users due to their many feature limitations, lack of failsafety and technological awakardness. There is an imperative need in the health sector for better technological systems that can enable better workflows for doctors, nurses, managers and researchers throughout the whole hospital organization.
 -->
 <br>
 
-### 3. The How 
+### 3. The How ###
 
 <!--
 2. problem
