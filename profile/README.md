@@ -22,7 +22,7 @@ NeoMedSys is a distributed system and consists currently of three main component
 
 ---
 
-<img align="left" width="120" alt="20200907_104224" src="https://user-images.githubusercontent.com/29639563/180863997-0e618b84-5039-438b-a028-1c42496c971d.png">
+<img align="left" width="90" alt="20200907_104224" src="https://user-images.githubusercontent.com/29639563/180863997-0e618b84-5039-438b-a028-1c42496c971d.png">
 
 
 The first component is a flexible/agile, scalable, fast and top-secure database management system which we call **MedQuery** and can be regarded as the backbone in NeoMedSys. The database architecture is designed to be adaptive to the hospital requirements and technological innovation. High priorites are security, accessiblity, scalability, felxibility and data quality assurance.
@@ -30,7 +30,7 @@ The first component is a flexible/agile, scalable, fast and top-secure database 
 
 <br clear="left"/>
 
-<img align="left" width="120" alt="20200907_104224" src="https://user-images.githubusercontent.com/29639563/180615895-f353f60d-abae-49f5-8204-1262efc259df.png">
+<img align="left" width="70" alt="20200907_104224" src="https://user-images.githubusercontent.com/29639563/180615895-f353f60d-abae-49f5-8204-1262efc259df.png">
 
 The second component is a production machine learning system we call **MLFactory**. This is where the AI models will live and serve the clinics in a safe and monitored environment. Compliance, failsafety, agility, monitoring and strong provenance are the high priorities for the MLOps at MLFactory. The component can be regarded as the muscle in NeoMedSys.
 
@@ -38,7 +38,7 @@ The second component is a production machine learning system we call **MLFactory
 
 <br>
 
-<img align="left" width="120" alt="20200907_104224" src="https://user-images.githubusercontent.com/29639563/180444097-00b612fe-6192-4ea3-8741-070ff2714c25.png">
+<img align="left" width="70" alt="20200907_104224" src="https://user-images.githubusercontent.com/29639563/180444097-00b612fe-6192-4ea3-8741-070ff2714c25.png">
 
 The third component is the a workflow-platform for hospital researchers and practitioners that will tie together the two other components. We have called this component **Falco by NeoMedSys**. The platform will serve as the first in line component for improving collaboration and workflow intra and inter departments, accross hospitals and hospital regions.
 
