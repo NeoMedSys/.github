@@ -7,8 +7,6 @@
 <br clear="left"/>
 
 
-<br>
-
 ### 1. The What
 #### 1.1 NeoMedSys 
 NeoMedSys is a state of the art medical software technology that enables advance analytics and AI in core medical operations, improves collaboration between research departments and clinics and simplifies complex multidisciplinary workflow by transforming, centralizing, maintaining and making readily available all kinds of medical data. NeoMedSys was developed the research unit [CRAI] as a consequence to the lack of modern hospital systems.
@@ -16,10 +14,13 @@ NeoMedSys is a state of the art medical software technology that enables advance
 <!--
 The main components of NeoMedSys are currently (i) state of the art medical database development, (ii) machine learning operations and (iii) developing a medical workflow-platform that incorporates all core operational and research workflow. The reason why NeoMedSys has currently three major focus areas, which can in turn be parted into smaller focus areas, is to be able to stay flexible and adaptive to the developments that happen in technology.
 -->
----
+<br>
+
 #### 1.2 Main components of NeoMedSys
 NeoMedSys is a distributed system and consists currently of three main components which in turn consists of smaller components. This architecture allows for agile and felixible development.
-<br>
+
+
+---
 
 <img align="left" width="120" alt="20200907_104224" src="https://user-images.githubusercontent.com/29639563/180863997-0e618b84-5039-438b-a028-1c42496c971d.png">
 
@@ -47,6 +48,8 @@ The third component is the a workflow-platform for hospital researchers and prac
 <br>
 
 ---
+
+<br>
 
 1.2 Ambitions
 
