@@ -4,24 +4,28 @@
 # NeoMedSys -- New Medical Systems #
 ## Making complex medical workflows simple ##
 
+
 <br clear="left"/>
-
-
-### 1. The What ###
-#### 1.1 NeoMedSys
-NeoMedSys is a medical software technology that enables advance analytics and AI assistance in the clinic, simplifies complex multidisciplinary workflow and centralizes core medical operations. Research departments can share the same workflow-platform as clinics and hospital managers which can improve collaboration. Any kind of medical data can be processed and delivered as a product to the clinics through NeoMedSys, that way the organization can centralize operations around the medical data and not vice-versa. AI models are easy to integrate into the NeoMedSys cloud native architecture, which makes the hospital responsive to the needs that AI can offer. NeoMedSys simplifies accessibility and data sharing intra and inter departments by using state of the art cyber security and admin controlled granulated access control. 
 
 <br>
 
-###### One system for improved research and core medical operations
+<img src="https://img.shields.io/badge/release-v0.1.0--alpha-blue" height="15" /> <img src="https://user-images.githubusercontent.com/29639563/182672649-9a412cbb-ddd7-43b6-b938-1a6dd720b5cc.png" height="15" />
+<img src="https://user-images.githubusercontent.com/29639563/182673031-c6054528-612b-441b-be52-bbb85096f66e.png" height="15" />
+<img src="https://user-images.githubusercontent.com/29639563/182672919-fa9c61e5-c9ec-412b-bd59-65dbd67673c9.png" height="15" />
+<img src="https://user-images.githubusercontent.com/29639563/182672526-3b60618c-ab81-4887-84e7-0a7329058782.png" height="15" />
+<br>
 
+### 1. The What ###
+#### 1.1 NeoMedSys
+NeoMedSys is a medical software technology that enables advanced analytics and AI assistance in the clinic, simplifies complex multidisciplinary workflow and centralizes core medical operations. Researchers can share the same NeoMedSys workflow-platform with clinicians and hospital managers, which can improve collaboration. Any kind of medical data can be processed and delivered as a product to the clinics with NeoMedSys; that way the organization can centralize operations around the medical data and not vice versa. AI models can easily be integrated into the cloud native architecture of NeoMedSys, which makes the hospital responsive to the possibilities that AI can offer. NeoMedSys simplifies accessibility and data sharing intra and inter departments by using state of the art information security and granular access control. 
+
+ > One system for improved  and enhanced research and core medical operations in multiple departments of the organization
 
 <!--
 by transformingh centralizing, maintaining and making readily available all kinds of medical data. NeoMedSys was first developed at the research unit [CRAI](crai.no) as a response to the lack of modern medical technology systems.
 
 The main components of NeoMedSys are currently (i) state of the art medical database development, (ii) machine learning operations and (iii) developing a medical workflow-platform that incorporates all core operational and research workflow. The reason why NeoMedSys has currently three major focus areas, which can in turn be parted into smaller focus areas, is to be able to stay flexible and adaptive to the developments that happen in technology.
 -->
-<br>
 
 #### 1.2 A brief deeper look at NeoMedSys
 NeoMedSys is a distributed system and consists currently of three main components which in turn consists of smaller components. This architecture allows for agile and felixible development. 
@@ -69,7 +73,12 @@ The third component is the a workflow-platform for hospital researchers and prac
 <br>
 
 ### 2. The Why ###
-#### 2.1 Medical technology needs and AI in the clinic
+#### 2.1 Who will benefit from taking use of NeoMedSys
+
+#### 2.2 Downsides of the current medical systems
+
+#### 2.3 New medical technology needs and AI in the clinic
+
 <!--
 The health sector is one of the industries in developing countries that are the slowest in adapting to technological change. Many of the current hospital systems are primarily based or partially based on technology that dates back to the 1970s and 1980s. These systems are often disliked by the users due to their many feature limitations, lack of failsafety and technological awakardness. There is an imperative need in the health sector for better technological systems that can enable better workflows for doctors, nurses, managers and researchers throughout the whole hospital organization.
 -->
@@ -77,7 +86,12 @@ The health sector is one of the industries in developing countries that are the 
 
 ### 3. The How ###
 
+#### 3.1 How will NeoMedSys bring about change
+
 <!--
+
+3.1 by transformingh centralizing, maintaining and making readily available all kinds of medical data. NeoMedSys was first developed at the research unit [CRAI](crai.no) as a response to the lack of modern medical technology systems.
+
 2. problem
 2.2 health sector
 - flexibility
