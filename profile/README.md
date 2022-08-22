@@ -22,49 +22,16 @@ NeoMedSys is a medical software technology that enables advanced analytics and A
  > One system for improved and enhanced research and core medical operations in multiple departments of the organization
 
 
-<!--
-by transformingh centralizing, maintaining and making readily available all kinds of medical data. as a response to the lack of modern medical technology systems.
-
-The main components of NeoMedSys are currently (i) state of the art medical database development, (ii) machine learning operations and (iii) developing a medical workflow-platform that incorporates all core operational and research workflow. The reason why NeoMedSys has currently three major focus areas, which can in turn be parted into smaller focus areas, is to be able to stay flexible and adaptive to the developments that happen in technology.
--->
+<br>
 
 #### 1.2 A brief deeper look at NeoMedSys
 NeoMedSys is a distributed system and consists currently of three main components which in turn consists of smaller components. This architecture allows for agile and felixible development. 
 - The first component is an agile, quality assured, scalable, fast and top-secure database management system which we call **MedQuery** and can be regarded as the backbone in NeoMedSys.
 - The second component is a production machine learning system we call **MLFactory**, which is where the AI models will live and serve the clinics. Compliance, fail-safety, agility, monitoring and traceablity are the high priorities for the MLOps in MLFactory.
 
- NeoMedSys was first developed at the research unit computational radiology and artifical intelligence[(CRAI)](crai.no) 
-
-<!--
----
-
-<img align="left" width="90" alt="20200907_104224" src="https://user-images.githubusercontent.com/29639563/180863997-0e618b84-5039-438b-a028-1c42496c971d.png">
+ NeoMedSys was first developed at the research unit computational radiology and artifical intelligence[(CRAI)](https://www.crai.no) 
 
 
-The first component is a flexible/agile, scalable, fast and top-secure database management system which we call **MedQuery** and can be regarded as the backbone in NeoMedSys. The database architecture is designed to be adaptive to the hospital requirements and technological innovation. High priorites are security, accessiblity, scalability, felxibility and data quality assurance.
-
-
-<br clear="left"/>
-
-<img align="left" width="70" alt="20200907_104224" src="https://user-images.githubusercontent.com/29639563/180615895-f353f60d-abae-49f5-8204-1262efc259df.png">
-
-The second component is a production machine learning system we call **MLFactory**. This is where the AI models will live and serve the clinics in a safe and monitored environment. Compliance, failsafety, agility, monitoring and strong provenance are the high priorities for the MLOps at MLFactory. The component can be regarded as the muscle in NeoMedSys.
-
-<br clear="left"/>
-
-<br>
-
-<img align="left" width="70" alt="20200907_104224" src="https://user-images.githubusercontent.com/29639563/180444097-00b612fe-6192-4ea3-8741-070ff2714c25.png">
-
-The third component is the a workflow-platform for hospital researchers and practitioners that will tie together the two other components. We have called this component **Falco by NeoMedSys**. The platform will serve as the first in line component for improving collaboration and workflow intra and inter departments, accross hospitals and hospital regions.
-
-<br clear="left"/>
-
-
-<br>
-
----
--->
 <br>
 
 1.3 Ambitions
