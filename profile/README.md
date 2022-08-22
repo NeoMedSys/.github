@@ -72,16 +72,20 @@ The third component is the a workflow-platform for hospital researchers and prac
 
 <br>
 
-
 ### 2. The Why
 
 #### 2.1 The current medical systems and the unmet technology needs
 An estimated 90% of all medical data in health care organizations (HCO) go unused according to a report released by [Black Book](https://www.prnewswire.com/news-releases/providers-underuse-of-analytics-could-be-costing-healthcare-consumers-billions-of-dollars-black-book-survey-300985491.html) in January 2019. We believe that there are two main reasons for this which are organizational culture and technical challenges. HCO's are one of the service facilities in the world that will benefit the most from adapting to AI technology and multipurpose data platforms, and yet the current medical software systems are not capable to support this need adequately. Many of today’s systems providers are trying to meet the needs which are required to bring AI into the clinic and improve collaboration between departments and research groups. However they fail to offer a comprehensive system that promotes compliant, safe and efficient AI development and deployment while also bringing the data centric core operations in the HCO around one multipurpose data platform.
 
 #### 2.2 The contribution of NeoMedSys
-NeoMedSys is a distributed system that is designed to enable safe, compliant, fast and secure AI development and deployment, while also bringing departments and research centers together. Researchers can share the same NeoMedSys medical workflow-platform with clinicians and hospital managers, which may improve collaboration and patient care. Any kind of medical data can be processed and delivered as a product to the clinics and research centers; that way the organization can centralize operations around the medical data and not vice versa.
+NeoMedSys is a distributed system that is designed to enable safe, compliant, fast and secure AI development and deployment, while also bringing departments and research centers together. The system can provide benefits such as fail-safety, scalability, agility/flexibility and improved accessbility with modern information security and granualted access control.
 
-###### A sophisticated and adaptive system like NeoMedSys would be a major contributor to the development of new-found medical treatment and research.
+<br>
+<br>
+
+> A sophisticated and adaptive system like NeoMedSys would be a major contributor to the development of new-found medical treatment and research.
+
+
 
 <!--
 ### 2. The Why ###
@@ -92,7 +96,18 @@ NeoMedSys is a distributed system that is designed to enable safe, compliant, fa
 #### 2.3 New medical technology needs and AI in the clinic
 An estimated 90% of all medical data in health care organizations (HCO) go unused in terms of advanced analytics, according to a report released by [Black Book](https://www.prnewswire.com/news-releases/providers-underuse-of-analytics-could-be-costing-healthcare-consumers-billions-of-dollars-black-book-survey-300985491.html) in January 2019. We believe that there are two main reasons for this which are organizational culture and technical challenges. HCO's are one of the service facilities in the world that will benefit the most from adapting to AI technology and multipurpose data platforms, and yet the current medical software systems are not capable to support this need adequately. Many of today’s systems providers are trying to meet the needs which are required to bring AI into the clinic and improve collaboration between departments and research groups. However they fail to offer a comprehensive system that promotes compliant, safe and efficient AI development and deployment while also bringing the data centric core operations in the HCO around one multipurpose data platform.
 
-##### NeoMedSys is a distributed system that is designed to enable safe, compliant, fast and secure AI development and deployment, while also bringing departments and research centers together on a common mulitpurpose platform for research and core operations.
+> NeoMedSys is a distributed system that is designed to enable safe, compliant, fast and secure AI development and deployment, while also bringing departments and research centers together on a common mulitpurpose platform for research and core operations.
+
+<span style="color: green"> Some green text </span>
+
+```diff
+- text in red
++ text in green
+! text in orange
+# text in gray
+@@ text in purple (and bold)@@
+```
+
 
 ### 3. The How ###
 
