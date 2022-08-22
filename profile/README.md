@@ -19,10 +19,11 @@
 #### 1.1 NeoMedSys
 NeoMedSys is a medical software technology that enables advanced analytics and AI assistance in the clinic, simplifies complex multidisciplinary workflow and centralizes core medical operations. Researchers can share the same NeoMedSys workflow-platform with clinicians and hospital managers, which can improve collaboration. Any kind of medical data can be processed and delivered as a product to the clinics with NeoMedSys; that way the organization can centralize operations around the medical data and not vice versa. AI models can easily be integrated into the cloud native architecture of NeoMedSys, which makes the hospital responsive to the possibilities that AI can offer. NeoMedSys simplifies accessibility and data sharing intra and inter departments by using state of the art information security and granular access control. 
 
- > One system for improved  and enhanced research and core medical operations in multiple departments of the organization
+ > One system for improved and enhanced research and core medical operations in multiple departments of the organization
+
 
 <!--
-by transformingh centralizing, maintaining and making readily available all kinds of medical data. NeoMedSys was first developed at the research unit [CRAI](crai.no) as a response to the lack of modern medical technology systems.
+by transformingh centralizing, maintaining and making readily available all kinds of medical data. as a response to the lack of modern medical technology systems.
 
 The main components of NeoMedSys are currently (i) state of the art medical database development, (ii) machine learning operations and (iii) developing a medical workflow-platform that incorporates all core operational and research workflow. The reason why NeoMedSys has currently three major focus areas, which can in turn be parted into smaller focus areas, is to be able to stay flexible and adaptive to the developments that happen in technology.
 -->
@@ -31,6 +32,8 @@ The main components of NeoMedSys are currently (i) state of the art medical data
 NeoMedSys is a distributed system and consists currently of three main components which in turn consists of smaller components. This architecture allows for agile and felixible development. 
 - The first component is an agile, quality assured, scalable, fast and top-secure database management system which we call **MedQuery** and can be regarded as the backbone in NeoMedSys.
 - The second component is a production machine learning system we call **MLFactory**, which is where the AI models will live and serve the clinics. Compliance, fail-safety, agility, monitoring and traceablity are the high priorities for the MLOps in MLFactory.
+
+ NeoMedSys was first developed at the research unit computational radiology and artifical intelligence[(CRAI)](crai.no) 
 
 <!--
 ---
