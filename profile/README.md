@@ -28,6 +28,7 @@ NeoMedSys is a medical software technology that enables advanced analytics and A
 NeoMedSys is a distributed system and consists currently of three main components which in turn consists of smaller components. This architecture allows for agile and felixible development. 
 - The first component is an agile, quality assured, scalable, fast and top-secure database management system which we call **MedQuery** and can be regarded as the backbone in NeoMedSys.
 - The second component is a production machine learning system we call **MLFactory**, which is where the AI models will live and serve the clinics. Compliance, fail-safety, agility, monitoring and traceablity are the high priorities for the MLOps in MLFactory.
+- The last component is NeoMedSys itself, which ties together the two other components on a multipurpose medical platform.
 
  NeoMedSys was first developed at the research group computational radiology and artifical intelligence[(CRAI)](https://crai.no/)
 
