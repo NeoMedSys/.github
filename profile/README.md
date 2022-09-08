@@ -46,17 +46,24 @@ NeoMedSys is a distributed system and consists currently of three main component
 ### 2. The Why
 
 #### 2.1 The current medical systems and the unmet technology needs
-An estimated 90% of all medical data in HCO's go unused according to a report released by [Black Book](https://www.prnewswire.com/news-releases/providers-underuse-of-analytics-could-be-costing-healthcare-consumers-billions-of-dollars-black-book-survey-300985491.html) in January 2019. We believe that there are two main reasons for this which are organizational culture and technical challenges. HCO's are one of the service facilities in the world that will benefit the most from adapting to AI technology and multipurpose data platforms, and yet the current medical software systems are not capable to adequately support this need. 
+An estimated 90% of all medical data in HCO's go unused according to a report released by [Black Book](https://www.prnewswire.com/news-releases/providers-underuse-of-analytics-could-be-costing-healthcare-consumers-billions-of-dollars-black-book-survey-300985491.html) in January 2019. We believe that there are tree main reasons for this which are; organizational culture, the lack technological knowledge, and [legacy systems](https://en.wikipedia.org/wiki/Legacy_system). HCO's are one of the service facilities in the world that will benefit the most from adapting to AI technology and multipurpose data platforms, and yet the current medical software systems are not capable to adequately support this need.
 
 Many of the current companies that dominate the market for hospital IT systems today, are very often using outdated technology while trying to meet the needs which are required to bring AI into the clinic and improve collaboration between departments and research groups. The lack of willingness to fully upgrade the current legacy systems makes it hard if not impossible to offer a comprehensive health care system that promotes compliant, safe and efficient AI development and deployment while also bringing the data centric core operations in the HCO around one multipurpose data platform.
 
 #### 2.2 The contribution of NeoMedSys
-NeoMedSys is a distributed system that is designed to enable safe, compliant, fast and secure AI development and deployment, while also bringing departments and research centers together. The system can provide core values to the HCO such as fail-safety, scalability, agility/flexibility and improved accessbility due to it's modern cloud-native sofware designs.
+NeoMedSys is a distributed system that is designed to enable safe, compliant, fast and secure AI development and deployment, while also bringing departments and research centers together. The system can provide core values to the HCO such as fail-safety, scalability, agility/flexibility and improved accessbility due to it's modern cloud-native sofware designs. 
+
+
+
+<!--
+#### 2.2 The challenges
+It is a significant responsibility to handle, process and distribute senstivte medical data as well as becoming a key supportive system for core medical operations, such as diagnostics, logistic and research. 
+-->
 
 <br>
 <br>
 
-> A sophisticated and adaptive system like NeoMedSys would be a major contributor to the development of new-found medical treatment and research.
+> A sophisticated and adaptive system like NeoMedSys would be a major contributor to the development of new-found medical treatment and research through the modernization of digital health care systems.
 
 
 
