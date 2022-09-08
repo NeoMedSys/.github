@@ -63,7 +63,7 @@ It is a significant responsibility to handle, process and distribute senstivte m
 <br>
 <br>
 
-> A sophisticated and adaptive system like NeoMedSys would be a major contributor to the development of new-found medical treatment and research through the modernization of digital health care systems.
+> A sophisticated and adaptive system like NeoMedSys would be a major contributor to the development of new-found medical diagnostics, treatment and research through the modernization of digital health care systems.
 
 
 
