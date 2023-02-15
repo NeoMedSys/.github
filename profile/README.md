@@ -54,68 +54,8 @@ Many of the current companies that dominate the market for hospital IT systems t
 NeoMedSys is a distributed system that is designed to enable safe, compliant, fast and secure AI development and deployment, while also bringing departments and research centers together. The system can provide core values to the HCO such as fail-safety, scalability, agility/flexibility and improved accessbility due to it's modern cloud-native sofware designs. 
 
 
-
-<!--
-#### 2.2 The challenges
-It is a significant responsibility to handle, process and distribute senstivte medical data as well as becoming a key supportive system for core medical operations, such as diagnostics, logistic and research. 
--->
-
 <br>
 <br>
 
 > A sophisticated and adaptive system like NeoMedSys would be a major contributor to the development of new-found medical diagnostics, treatment and research through the modernization of digital health care systems.
 
-
-
-<!--
-### 2. The Why ###
-#### 2.1 Who will benefit from taking use of NeoMedSys
-
-#### 2.2 The current medical systems
-
-#### 2.3 New medical technology needs and AI in the clinic
-An estimated 90% of all medical data in health care organizations (HCO) go unused in terms of advanced analytics, according to a report released by [Black Book](https://www.prnewswire.com/news-releases/providers-underuse-of-analytics-could-be-costing-healthcare-consumers-billions-of-dollars-black-book-survey-300985491.html) in January 2019. We believe that there are two main reasons for this which are organizational culture and technical challenges. HCO's are one of the service facilities in the world that will benefit the most from adapting to AI technology and multipurpose data platforms, and yet the current medical software systems are not capable to support this need adequately. Many of today’s systems providers are trying to meet the needs which are required to bring AI into the clinic and improve collaboration between departments and research groups. However they fail to offer a comprehensive system that promotes compliant, safe and efficient AI development and deployment while also bringing the data centric core operations in the HCO around one multipurpose data platform.
-
-> NeoMedSys is a distributed system that is designed to enable safe, compliant, fast and secure AI development and deployment, while also bringing departments and research centers together on a common mulitpurpose platform for research and core operations.
-
-<span style="color: green"> Some green text </span>
-
-```diff
-- text in red
-+ text in green
-! text in orange
-# text in gray
-@@ text in purple (and bold)@@
-```
-
-
-### 3. The How ###
-
-#### 3.1 How will NeoMedSys bring about change
--->
-<br>
-
-<!--
-
-3.1 by transformingh centralizing, maintaining and making readily available all kinds of medical data. NeoMedSys was first developed at the research unit [CRAI](crai.no) as a response to the lack of modern medical technology systems.
-
-2. problem
-2.2 health sector
-- flexibility
-- decentralized
-- no modern approach
-- old security systems that incetivises completely closing off the systems and stopping further development due to securtiy risks
-- no way to work agile
-
-The effect of improving this is improved patient treatment/care, better collaboration intra/inter departments and . 
-
-2.1 NeoMedSys
-The aim is to make AI a main component of the workflow-platform. 
-**Here are some ideas to get you started:**
-
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
