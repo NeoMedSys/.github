@@ -1,7 +1,6 @@
+![B@1200x](https://github.com/NeoMedSys/.github/assets/29639563/dc7513dc-bbe3-4fc8-ad19-2e70ff4b77e0)
 
-<img align="left" width="165" alt="20200907_104224" src="https://user-images.githubusercontent.com/29639563/180003274-6b40f5e8-ddc8-40ec-8bc5-74320dd0bfcc.png">
-
-# NeoMedSys -- New Medical Systems #
+# New Medical Systems #
 ## Making complex medical workflows simple ##
 
 
