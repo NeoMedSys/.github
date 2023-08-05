@@ -16,12 +16,14 @@
 
 ### 1. The What ###
 #### 1.1 NeoMedSys
-[NeoMedSys](https://neomedsys.io/) is a software platform that enables advanced analytics and AI assistance in the clinic, simplifies complex multidisciplinary workflow and centralizes core medical operations. Researchers can share the same digital workspace with clinicians and hospital managers, which can improve collaboration and deconstruct the interdepartmental silos. NeoMedSys can handle and assort any kind of medical data and deliver it as specific data products on the platform to the respective clinic and thus helping the health care organization to become data-driven. AI models can easily be integrated into the cloud native architecture of NeoMedSys, which makes the health care organization responsive to the possibilities that AI can offer. NeoMedSys simplifies accessibility and data sharing intra and inter departments by using thorough information security and granular access control. 
-
- > One system for improved and enhanced research and core medical operations in multiple departments of the organization
-
+[NeoMedSys](https://neomedsys.io/) is a software platform that enables advanced analytics and AI assistance in the clinic, simplifies complex multidisciplinary workflow and centralizes core medical operations. Researchers can share the same digital workspace with clinicians and hospital managers, which can improve collaboration and deconstruct the interdepartmental silos. NeoMedSys can handle and assort any kind of medical data and deliver it as specific data products on the platform to the respective clinic and thus helping the healthcare organization(HCO) to become data-driven. AI models can easily be integrated into the cloud native architecture of NeoMedSys, which makes the HCO responsive to the possibilities that AI can offer. NeoMedSys simplifies accessibility and data sharing intra and inter departments by using thorough information security and granular access control. 
 
 <br>
+<br>
+ 
+ > One system for improved and enhanced research and core medical operations in multiple departments of the organization
+
+<br/>
 
 #### 1.2 A brief deeper look at NeoMedSys
 NeoMedSys is a distributed system and consists currently of three main components which in turn consists of smaller components. This architecture allows for agile and felixible development. 
@@ -36,9 +38,9 @@ NeoMedSys is a distributed system and consists currently of three main component
 
 1.3 Ambitions
 
-> 🚀 Our mission is to improve diagnostics, disease characterization, treatment planning, and medical research by bringing AI and modern software engineering to the healthcare organizations
+> 🚀 Our mission is to improve diagnostics, disease characterization, treatment planning, and medical research by bringing AI and modern software engineering to the HCO
 
-> :sparkles: The vision is to rally the workflow of clinics and research departments under one flag by becoming a trustworthy, agile and modern centralized system provider
+> 👀 The vision is to rally the clinics, offices and research departments on one platform by becoming a trustworthy, agile and modern centralized system provider
 
 <br>
 
