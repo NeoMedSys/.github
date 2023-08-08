@@ -1,4 +1,5 @@
-![B@1200x](https://github.com/NeoMedSys/.github/assets/29639563/dc7513dc-bbe3-4fc8-ad19-2e70ff4b77e0)
+![B](https://github.com/NeoMedSys/.github/assets/29639563/c1fb68e7-a618-452b-a40f-518e5fee577a)
+
 
 # New Medical Systems #
 ## Making complex medical workflows simple ##
