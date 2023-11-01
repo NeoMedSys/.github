@@ -1,5 +1,4 @@
-![D](https://github.com/NeoMedSys/.github/assets/29639563/025e5cbf-9baf-4450-8d1e-3566590382e5)
-
+![NeoMedSys(4)](https://github.com/NeoMedSys/.github/assets/29639563/b714297f-a135-43c9-bba1-656d411e83eb)
 
 # New Medical Systems #
 ## Making complex medical workflows simple ##
