@@ -14,8 +14,7 @@
 <img src="https://user-images.githubusercontent.com/29639563/182672526-3b60618c-ab81-4887-84e7-0a7329058782.png" height="15" />
 <br>
 
-### 1. The What ###
-#### 1.1 NeoMedSys
+### The What
 [NeoMedSys](https://neomedsys.io/) is a software platform that enables advanced analytics and AI assistance in the clinic, simplifies complex multidisciplinary workflow and centralizes core medical operations. Researchers can share the same digital workspace with clinicians and hospital managers, which can improve collaboration and deconstruct the interdepartmental silos. NeoMedSys can handle and assort any kind of medical data and deliver it as specific data products on the platform to the respective clinic and thus helping the healthcare organization(HCO) to become data-driven. AI models can easily be integrated into the cloud native architecture of NeoMedSys, which makes the HCO responsive to the possibilities that AI can offer. NeoMedSys simplifies accessibility and data sharing intra and inter departments by using thorough information security and granular access control. 
 
 <br>
@@ -25,18 +24,9 @@
 
 <br/>
 
-#### 1.2 A brief deeper look at NeoMedSys
-NeoMedSys is a distributed system and consists currently of three main components which in turn consists of smaller components. This architecture allows for agile and felixible development. 
-- The first component is an sercure, fast and scalable database management system which we call **MedQuery** and can be regarded as the backbone in NeoMedSys. The DBMS is based on a micro service architecture deployed with cloud native technology.
-- The second component is a production machine learning system. This is where the AI models will live and serve the clinics. The MLOps we developed is mainly concerned with regulatory compliance, flexibility, monitoring and traceablity.
-- The last component is NeoMedSys itself, which ties together the two other components on a multipurpose medical software platform.
-
- NeoMedSys was first developed at the research group computational radiology and artifical intelligence[(CRAI)](https://crai.no/)
-
-
 <br>
 
-1.3 Ambitions
+### Ambitions
 
 > 🚀 Our mission is to improve diagnostics, disease characterization, treatment planning, and medical research by bringing AI and modern software engineering to the HCO
 
