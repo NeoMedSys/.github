@@ -21,7 +21,7 @@ Our development approach is vertically integrated, using only core technologies 
 <br>
 <br>
  
- > One system for improved and enhanced research and core medical operations in multiple departments of the organization
+ > Bridging clinical practice and medical research for tomorrow's precision medicine
 
 <br/>
 
