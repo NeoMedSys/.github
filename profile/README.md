@@ -1,7 +1,7 @@
 ![NeoMedSys(4)](https://github.com/NeoMedSys/.github/assets/29639563/b714297f-a135-43c9-bba1-656d411e83eb)
 
 # New Medical Systems #
-## Making complex medical workflows simple ##
+## Bridging research and the clinic for next-gen precision medicine ##
 
 
 <br clear="left"/>
@@ -15,8 +15,9 @@
 <br>
 
 ### The What
-[NeoMedSys](https://neomedsys.io/) is a software platform that enables advanced analytics and AI assistance in the clinic, simplifies complex multidisciplinary workflow and centralizes core medical operations. Researchers can share the same digital workspace with clinicians and hospital managers, which can improve collaboration and deconstruct the interdepartmental silos. NeoMedSys can handle and assort any kind of medical data and deliver it as specific data products on the platform to the respective clinic and thus helping the healthcare organization(HCO) to become data-driven. AI models can easily be integrated into the cloud native architecture of NeoMedSys, which makes the HCO responsive to the possibilities that AI can offer. NeoMedSys simplifies accessibility and data sharing intra and inter departments by using thorough information security and granular access control. 
+[NeoMedSys](https://neomedsys.io/) NeoMedSys is a pioneering platform designed to streamline the development, validation, and regulatory approval of artificial intelligence (AI) models for medical applications. Developed by a team of software engineers and researchers, NeoMedSys aims to become a central hub for medical AI production that bridges the gap between medical research and clinical practice, accelerating the path from innovative AI model creation to real-world use in healthcare settings.
 
+Our development approach is vertically integrated, using only core technologies like NixOs, Kubernetes, Docker, RabbitMQ etc. as foundational components — everything else is developed in-house. This strategy allows us to maintain full control over our architecture while leveraging robust, proven tech for our essential infrastructure.
 <br>
 <br>
  
@@ -30,7 +31,7 @@
 
 > 🚀 Our mission is to improve diagnostics, disease characterization, treatment planning, and medical research by bringing AI and modern software engineering to the HCO
 
-> 👀 The vision is to rally the clinics, offices and research departments on one platform by becoming a trustworthy, agile and modern centralized system provider
+> 👀 The vision is to become the leading production system for medicla AI and a fast track to regulatory approval for AI models
 
 <br>
 
