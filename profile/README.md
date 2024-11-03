@@ -15,7 +15,7 @@
 <br>
 
 ### The What
-[NeoMedSys](https://neomedsys.io/) NeoMedSys is a pioneering platform designed to streamline the development, validation, and regulatory approval of artificial intelligence (AI) models for medical applications. Developed by a team of software engineers and researchers, NeoMedSys aims to become a central hub for medical AI production that bridges the gap between medical research and clinical practice, accelerating the path from innovative AI model creation to real-world use in healthcare settings.
+[NeoMedSys](https://neomedsys.io/) is a pioneering platform designed to streamline the development, validation, and regulatory approval of artificial intelligence (AI) models for medical applications. Developed by a team of software engineers and researchers, NeoMedSys aims to become a central hub for medical AI production that bridges the gap between medical research and clinical practice, accelerating the path from innovative AI model creation to real-world use in healthcare settings.
 
 Our development approach is vertically integrated, using only core technologies like NixOs, Kubernetes, Docker, RabbitMQ etc. as foundational components — everything else is developed in-house. This strategy allows us to maintain full control over our architecture while leveraging robust, proven tech for our essential infrastructure.
 <br>
